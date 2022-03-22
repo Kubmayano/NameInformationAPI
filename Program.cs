@@ -1,5 +1,6 @@
-﻿using System;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
+
+/*I know that this program is super simple to make but goddamn its like my second day of actually getting to know API's lmfao so give me a break thank you <3*/
 
 namespace NameInformation
 {
