@@ -1,0 +1,17 @@
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\NameInformation.exe
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\NameInformation.deps.json
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\NameInformation.runtimeconfig.json
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\NameInformation.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\ref\NameInformation.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\NameInformation.pdb
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.csproj.AssemblyReference.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.AssemblyInfoInputs.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.AssemblyInfo.cs
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\ref\NameInformation.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.pdb
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.genruntimeconfig.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\NameInformation\obj\Debug\net6.0\NameInformation.csproj.CopyComplete
