@@ -26,11 +26,11 @@ namespace NameInformation
         {
             string[] returnData = new string[3];
             string data = File.ReadAllText("nameData.json");
-            dynamic? nameData = JsonConvert.DeserializeObject(data);
+            dynamic nameData = JsonConvert.DeserializeObject(data);
             data = File.ReadAllText("genderData.json");
-            dynamic? genderData = JsonConvert.DeserializeObject(data);
+            dynamic genderData = JsonConvert.DeserializeObject(data);
             data = File.ReadAllText("nationalityData.json");
-            dynamic? nationalityData = JsonConvert.DeserializeObject(data);
+            dynamic nationalityData = JsonConvert.DeserializeObject(data);
 
             if (nameData != null && genderData != null && nationalityData != null)
             {
@@ -46,7 +46,7 @@ namespace NameInformation
 
         public static string FormatJson(string data)
         {
-            dynamic? parsedData = JsonConvert.DeserializeObject(data);
+            dynamic parsedData = JsonConvert.DeserializeObject(data);
             return JsonConvert.SerializeObject(parsedData, Formatting.Indented);
         }
 
@@ -55,7 +55,7 @@ namespace NameInformation
             Console.ForegroundColor = ConsoleColor.Blue;
 
             System.Console.Write("Please enter your name: ");
-            string? name = Console.ReadLine();
+            string name = Console.ReadLine();
 
             if (name != null)
             {
